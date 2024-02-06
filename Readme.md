@@ -5,7 +5,7 @@ Dockefile and docker-compose for build and run react.js (by vite) project in Doc
 
 ## Usage
 
-Clone Repository and Copy Dockerfile and docker-compose.yaml to Project root Run :
+Clone Repository and Copy Dockerfile and docker-compose.yaml to Project root & Run :
 ```bash
   docker-compose up -d
 ```
